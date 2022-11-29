@@ -1,1 +1,1 @@
-ALX Section 2 : Pyhton Programming
+ALX Section 2 : Python Programming
